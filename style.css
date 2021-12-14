@@ -13,7 +13,7 @@ body{
 
 }
 .contrainer{
-	width: 50%;
+	width: auto;
 	background-color:orange ;
 	margin: 20px;
 		
